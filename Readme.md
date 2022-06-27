@@ -1,4 +1,4 @@
-<h3>Semana NLW RocketSeat - Return</h3>
+<h3>Treinamento - Ignite RocketSeat | Junho 2022 </h3>
 
 <h5>Sidney Cesar</h5>
 
@@ -11,3 +11,4 @@ Aplicação web para gerenciamento de plataforma de eventos para Aulas / Palestr
 * TypeScript
 * GraphQL
 * GraphCMS
+
