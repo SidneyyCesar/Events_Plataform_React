@@ -17,7 +17,7 @@ interface GetLessonsQueryResponse {
     id: string;
     title:string;
     slug: string;
-    avaliableAt: string;
+    availableAt: string;
     lessonType: 'live'| 'class'
   }[]
 }
