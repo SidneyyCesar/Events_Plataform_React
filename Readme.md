@@ -1,4 +1,4 @@
-<h3>Treinamento - Ignite RocketSeat | Junho 2022 </h3>
+<h3>Lab / Junho 2022 </h3>
 
 <h5>Sidney Cesar</h5>
 
